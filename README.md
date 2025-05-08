@@ -1,1 +1,1 @@
-Construindo o um relógio simples.
+Construindo um relógio simples.
